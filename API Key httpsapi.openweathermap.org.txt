@@ -1,0 +1,5 @@
+API Key: https://api.openweathermap.org/data/2.5/weather?q=paris&appid=cbbe65c7f4331287a78c4af68e1a6755
+
+OWN API key: cbbe65c7f4331287a78c4af68e1a6755
+
+Metric API Key : https://api.openweathermap.org/data/2.5/weather?q=paris&appid=cbbe65c7f4331287a78c4af68e1a6755&units=metric
